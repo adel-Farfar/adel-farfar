@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi there! 👋 I'm Adel Farfar
+I’m a Master’s student in Artificial Intelligence with a strong background in Applied Mathematics. I specialize in statistics, data analysis, and programming with Python, SQL, and R.
 
-<!--
-**adel-Farfar/adel-farfar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Currently:
+  -Developing skills in data analysis, machine learning, and statistical modeling.
+  -Working on real-world projects involving Python, R, and SQL.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 Looking to Collaborate On:
+  -Data science and analytics projects.
+  -Applications of statistics in problem-solving.
+
+
+🤔 Open to:
+  -Werkstudent positions or internships in data analysis or data science.
+
+  
+⚡ Fun Fact:
+  -I speak four languages (Arabic, English, French, and German) and enjoy solving puzzles—both logical and real-world!
